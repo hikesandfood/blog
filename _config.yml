@@ -20,8 +20,7 @@ navigation:
     url: /style-guide/
   - text: Tags
     url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  
 
 # Colors
 accent_color: '#FA5F55'
