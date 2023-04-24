@@ -13,13 +13,13 @@ description: Hikes and Food, my 2 passions.
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /
+    url: /blog-test/
   - text: About
     url: /blog-test/about/
   - text: Style Guide
-    url: /style-guide/
+    url: /blog-test/style-guide/
   - text: Tags
-    url: /tags/
+    url: /blog-test/tags/
   
 
 # Colors
